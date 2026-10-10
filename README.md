@@ -617,7 +617,7 @@ Example:
 
 ## 👨‍💻 Developer
 
-**Tirthkumar Gabani**
+Dharmesh Chauhan
 
 Computer Engineering  
 Government
